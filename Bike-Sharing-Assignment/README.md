@@ -82,4 +82,4 @@ Give credit here.
 
 
 ## Contact
-Created by [@Satyajit-Chaudhuri]- feel free to contact us!# Project Name
+Created by [@Satyajit-Chaudhuri]- feel free to contact me!
