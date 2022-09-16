@@ -1,6 +1,5 @@
 # <center>Logistic Regression Model To Detect Heart Disease</center>
 
-![Heart-Rate-Disease-Concept-777x518%20%281%29.jpg](attachment:Heart-Rate-Disease-Concept-777x518%20%281%29.jpg)
 
 ### Premise:
 
@@ -14,5 +13,5 @@ Being informed about the risk factors can help people to manage their symptoms e
 
 ### GOAL: 
 
-**Create a Classification Model that can predict whether or not a person has presence of heart disease based on physical features of that person (age,sex, cholesterol, etc...)**
+**Creating a Logistic Regression Model that can predict whether or not a person has presence of heart disease based on physical features of that person**
 
