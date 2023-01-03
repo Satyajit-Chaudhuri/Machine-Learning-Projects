@@ -17,7 +17,7 @@
 #### Classification Models Used:
 
 - Logistic Regression Model
-- Decision Tree Classification Model
+- XGBoost Classification Model
 - Random Forest Classification Model
 
 ### Acknowledgement:
