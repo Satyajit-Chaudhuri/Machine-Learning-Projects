@@ -2,7 +2,7 @@
 ### Premise:
 #### In the telecommunication industry, customers tend to change operators if not provided with attractive schemes and offers. It is very important for any telecom operator to prevent the present customers from churning to other operators. Hence the concerned telecom company wishes to build an ML model which can predict if the customer will churn or not in a particular month based on the past data.
 ### Objectives
-#### The main goal of the case study is to build ML models to predict churn. The predictive model that you’re going to build will the following purposes:
+#### The main goal of the case study is to build ML models to predict churn. The predictive model will serve the following purposes:
 
 #### It will be used to predict whether a high-value customer will churn or not, in near future (i.e. churn phase). By knowing this, the company can take action steps such as providing special plans, discounts on recharge etc.
 
